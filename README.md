@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Majid Awan 👋</h1>
+<h1 align="center">Hi, I'm Majid Awan </h1>
 
 <h3 align="center">MERN Stack Developer · C#/.NET Desktop Apps</h3>
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🙋 About Me
+##  About Me
 
 - Software Engineering student at UET Lahore (2023 to 2027), based in Lahore, Pakistan.
 - I build full-stack web apps with the MERN stack and desktop apps with C#, .NET and WPF.
@@ -24,7 +24,7 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 <table>
   <tr>
@@ -95,7 +95,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <picture>
@@ -125,7 +125,7 @@
   </picture>
 </p>
 
-## 🔥 Streak
+##  Streak
 
 <p align="center">
   <picture>
@@ -134,7 +134,7 @@
   </picture>
 </p>
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <p align="center">
   <picture>
